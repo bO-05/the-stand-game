@@ -2,6 +2,8 @@
 
 A five-level, multi-round Three.js rhythm game
 
+![THE STAND Landing Page](src/assets/landing.png)
+
 You are the capo of a stadium supporters' section. Shift into the called lane, strike each pulse, protect the crowd's energy, survive rival noise surges, and carry one chant into a larger final anthem.
 
 ## Play
